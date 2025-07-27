@@ -33,32 +33,6 @@ I’m a student developer and creator who:
 
 ---
 
-## 🧠 Learning Paths I Recommend
-
-### 📍 Frontend Development
-- HTML5
-- CSS3 (Flexbox, Grid, Transitions)
-- JavaScript (DOM, Events, ES6+)
-- Tailwind CSS
-- jQuery (for fast scripting)
-- React.js (with Hooks, Router)
-- SASS / SCSS
-
-### 📍 Backend Development
-- Node.js with Express
-- PHP (for beginners or hosting)
-- Python (Flask, CLI tools)
-- File systems in Termux
-- Shell scripting basics
-
-### 📍 Database & Storage
-- JSON / LocalStorage
-- MongoDB (NoSQL)
-- SQLite (in Termux)
-- Firebase basics
-
----
-
 ## 🔧 Tools & Platforms I Use
 
 | Tool        | Purpose                     |
@@ -67,37 +41,6 @@ I’m a student developer and creator who:
 | **[Spck Editor](https://play.google.com/store/apps/details?id=com.termux)** | Mobile IDE for HTML/CSS/JS |
 | **GitHub**  | Share code, host projects   |
 | **Markdown** | Write clean docs like this! |
-
----
-
-## 🧩 Libraries I Use
-
-- React.js / Next.js
-- jQuery
-- Axios
-- Chart.js
-- Highlight.js
-- Prism.js
-- Tailwind CSS
-- Sortable.js / Interact.js
-- Brain.js (AI)
-- Fabric.js / Cropper.js
-- Three.js (3D web)
-- Anime.js / GSAP (Animations)
-
----
-
-## 🔥 Sample Project Ideas
-
-- HTML playground with style + script injection
-- Node.js image processor (Termux backend)
-- Markdown to HTML parser with live preview
-- Code snippet sharer for mobile
-- PDF/ZIP tools built using jsPDF & JSZip
-- Static site generator on mobile
-- Online form builder (drag-drop)
-- JSON → HTML visualizer
-- Floating terminal in browser (like Termux UI)
 
 ---
 
